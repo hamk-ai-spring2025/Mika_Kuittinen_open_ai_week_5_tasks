@@ -1,0 +1,130 @@
+[
+    {
+        "word": "freedom",
+        "definition": "The power or right to act, speak, or think as one wants without hindrance or restraint.",
+        "synonyms": [
+            "liberty",
+            "independence",
+            "autonomy",
+            "emancipation"
+        ],
+        "antonyms": [
+            "captivity",
+            "oppression",
+            "restraint",
+            "restriction"
+        ],
+        "examples": [
+            "The country fought for its freedom from colonial rule.",
+            "She values her freedom to express her opinions openly.",
+            "After years of imprisonment, he finally tasted freedom."
+        ]
+    },
+    {
+        "word": "expensive",
+        "definition": "costing a lot of money; having a high price.",
+        "synonyms": [
+            "costly",
+            "pricey",
+            "high-priced",
+            "lavish",
+            "extravagant"
+        ],
+        "antonyms": [
+            "cheap",
+            "inexpensive",
+            "affordable",
+            "economical",
+            "budget"
+        ],
+        "examples": [
+            "The restaurant was too expensive for us to dine at regularly.",
+            "She bought an expensive dress for the wedding.",
+            "Living in the city can be quite expensive."
+        ]
+    },
+    {
+        "word": "fast",
+        "definition": "Moving or capable of moving at high speed.",
+        "synonyms": [
+            "quick",
+            "rapid",
+            "swift",
+            "speedy"
+        ],
+        "antonyms": [
+            "slow",
+            "sluggish",
+            "lethargic"
+        ],
+        "examples": [
+            "The fast train will get you to the city in under an hour.",
+            "She is a fast runner and often wins races.",
+            "Technology is advancing at a fast pace."
+        ]
+    },
+    {
+        "word": "learning",
+        "definition": "The acquisition of knowledge or skills through study, experience, or teaching.",
+        "synonyms": [
+            "education",
+            "knowledge",
+            "study",
+            "scholarship",
+            "erudition"
+        ],
+        "antonyms": [
+            "ignorance",
+            "illiteracy",
+            "unawareness"
+        ],
+        "examples": [
+            "Learning a new language can be challenging but rewarding.",
+            "Her passion for learning led her to pursue a degree in neuroscience.",
+            "The school emphasizes hands-on learning to engage students."
+        ]
+    },
+    {
+        "word": "hatred",
+        "definition": "Intense dislike or ill will.",
+        "synonyms": [
+            "loathing",
+            "detestation",
+            "abhorrence",
+            "animosity",
+            "antipathy"
+        ],
+        "antonyms": [
+            "love",
+            "affection",
+            "kindness",
+            "sympathy",
+            "friendliness"
+        ],
+        "examples": [
+            "His hatred for the opposing team was evident in his harsh words.",
+            "The speech was filled with hatred and hostility.",
+            "She couldn't understand the hatred directed towards her."
+        ]
+    },
+    {
+        "word": "light",
+        "definition": "The natural agent that stimulates sight and makes things visible.",
+        "synonyms": [
+            "illumination",
+            "radiance",
+            "brightness",
+            "glow"
+        ],
+        "antonyms": [
+            "darkness",
+            "gloom",
+            "shadow"
+        ],
+        "examples": [
+            "The room was filled with bright light from the window.",
+            "She switched on the light to read her book.",
+            "The morning light crept through the curtains."
+        ]
+    }
+]
